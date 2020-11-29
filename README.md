@@ -6,6 +6,7 @@ Télécharger un client IRC :
 - MAC - colloquy : https://github.com/colloquy/colloquy/releases
 - WINDOWS - hexchat : https://hexchat.github.io
 
+Se connecter
 - Se connecter à un serveur : chat.freenode.net
 - Se connecter au canal : hear-protocole
 
