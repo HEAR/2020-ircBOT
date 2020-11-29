@@ -1,0 +1,19 @@
+{
+  "name": "hear-2020-ircbot",
+  "version": "1.0.0",
+  "description": "approche protocole, ircBOT, HEAR A1 2020",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HEAR/2020-ircBOT.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HEAR/2020-ircBOT/issues"
+  },
+  "homepage": "https://github.com/HEAR/2020-ircBOT#readme"
+}
