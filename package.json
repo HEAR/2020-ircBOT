@@ -4,7 +4,7 @@
   "description": "approche protocole, ircBOT, HEAR A1 2020",
   "main": "index.js",
   "scripts": {
-    "test": "node index.js"
+    "start": "nodemon index.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/HEAR/2020-ircBOT/issues"
   },
-  "homepage": "https://github.com/HEAR/2020-ircBOT#readme"
+  "homepage": "https://github.com/HEAR/2020-ircBOT#readme",
+  "dependencies": {
+    "irc": "^0.5.2",
+    "nodemon": "^2.0.6"
+  }
 }
